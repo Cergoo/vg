@@ -1,0 +1,1 @@
+2|<a class="text3_2" id="bull_001_1" href="/galereya.php?name=bull_001&amp;number=1">стр.1</a> <a class="text3_2" id="bull_001_2" href="/galereya.php?name=bull_001&amp;number=2">стр.2</a> 
